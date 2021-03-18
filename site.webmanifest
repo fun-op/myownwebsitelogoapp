@@ -12,7 +12,7 @@
 {"src":"https://1.bp.blogspot.com/-1eeixmDHd5E/YAvNKULsJ7I/AAAAAAAAA2Y/W1xGNvkAmPs5_6Oate6luj8VzLRgadxdQCLcBGAsYHQ/s320/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],
 "theme_color":"#ffffff",
   "background_color":"#ffffff",
-  "display":"standalone",
+  "display":"standalone"}
     "shortcuts" : [
   {
     "name": "Buddy",
