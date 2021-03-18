@@ -1,4 +1,19 @@
 {
+  "shortcuts" : [
+  {
+    "name": "Buddy",
+    "url": "/p/code-of-buddy.html",
+    "description": "Your Personal AI Assistant!"
+  },
+  {
+    "name": "User",
+    "url": "/p/user.html"
+  },
+  /*{
+    "name": "New reminder",
+    "url": "/create/reminder"
+  }*/
+]
   "name": "Infinite Fun",
   "short_name": "Infinite Fun",
   "start_url": "https://the---anirban.blogspot.com/p/swiper-beta.html",
