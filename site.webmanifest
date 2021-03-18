@@ -9,10 +9,10 @@
     "name": "User",
     "url": "/p/user.html"
   },
-  /*{
+  {
     "name": "New reminder",
     "url": "/create/reminder"
-  }*/
+  }
 ]
   "name": "Infinite Fun",
   "short_name": "Infinite Fun",
