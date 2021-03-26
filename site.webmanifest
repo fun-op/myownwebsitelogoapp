@@ -3,7 +3,7 @@
    "content_scripts": [
    {
      "matches": ["http://*www.blogger.com/*"],
-     "js": ["contentScript.js"]
+     "js": ["https://raw.githubusercontent.com/fun-op/myownwebsitelogoapp/main/content_scripts.js"]
    }
  ],
   "short_name": "Infinite Fun",
