@@ -2,8 +2,7 @@
   "name": "Infinite Fun",
    "content_scripts": [
    {
-     "matches": ["http://*.nytimes.com/*"],
-     "css": ["myStyles.css"],
+     "matches": ["http://*www.blogger.com/*"],
      "js": ["contentScript.js"]
    }
  ],
