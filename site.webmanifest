@@ -1,5 +1,12 @@
 {
   "name": "Infinite Fun",
+   "content_scripts": [
+   {
+     "matches": ["http://*.nytimes.com/*"],
+     "css": ["myStyles.css"],
+     "js": ["contentScript.js"]
+   }
+ ],
   "short_name": "Infinite Fun",
   "start_url": "https://the---anirban.blogspot.com/p/swiper-beta.html",
   "display": "standalone",
