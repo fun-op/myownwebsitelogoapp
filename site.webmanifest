@@ -1,11 +1,6 @@
 {
   "name": "Infinite Fun",
-   "content_scripts": [
-   {
-     "matches": ["http://*www.blogger.com/*"],
-     "js": ["https://raw.githubusercontent.com/fun-op/myownwebsitelogoapp/main/content_scripts.js"]
-   }
- ],
+
   "short_name": "Infinite Fun",
   "start_url": "https://the---anirban.blogspot.com/p/swiper-beta.html",
   "display": "standalone",
