@@ -2,10 +2,10 @@
   "name": "Infinite Fun",
 
   "short_name": "Infinite Fun",
-  "start_url": "https://the---anirban.blogspot.com/p/swiper-beta.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "We Gave you Infinite Fun",
+  "description": "We Give you Infinite Fun",
  "icons":[{"src":"https://1.bp.blogspot.com/-rcVliXdB-nA/YM9DYFnEnII/AAAAAAAABBg/CXdKD5ywLcAkN10fOQ4a7NUF3V33TnjQACLcBGAsYHQ/s320/favicon-16x16.png","sizes":"16x16","type":"image/png"},
    {"src":"https://1.bp.blogspot.com/-5PUNgl_-xVk/YM9DYPSrRZI/AAAAAAAABBk/ZvlgWXd7rd0P6LWHsULD0Gz5JfG509GvgCLcBGAsYHQ/s320/favicon-32x32.png","sizes":"32x32","type":"image/png"},
    {"src":"https://1.bp.blogspot.com/-eJUedbu9xps/YM9Db04JrbI/AAAAAAAABBs/VXA3wUivckYMUoiUakUrManDhAMDnRQ-ACLcBGAsYHQ/s320/apple-touch-icon.png","sizes":"180x180","type":"image/png"},
